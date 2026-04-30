@@ -1,0 +1,6 @@
+- generic [ref=e3]:
+  - generic [ref=e5]: Finding your location…
+  - generic [ref=e6]:
+    - text: Allow location access when prompted,
+    - text: or search for a city.
+  - button "Search for a city instead" [ref=e7] [cursor=pointer]
